@@ -6,7 +6,7 @@ oklch(0.75 0.14 165) ← that teal? it's in my editor.
 oklch(0.70 0.20 330) ← that magenta? it's in my notes.
 ```
 
-I build tools and themes from a single set of color tokens. One palette, every surface.
+Marketing analytics at Brex. I build tools and themes from a single set of color tokens. One palette, every surface.
 
 ---
 
@@ -27,16 +27,14 @@ A neo-brutalist design system rooted in OKLCH color science — perceptually uni
 
 ### other things i've made
 
-**[`polymarket-sim`](https://github.com/kylesnav/polymarket-sim)** — paper-trading bot that finds pricing gaps between Polymarket weather contracts and NOAA forecasts
+**[`linear-issue-skill`](https://github.com/kylesnav/linear-issue-skill)** — full Linear issue lifecycle in Claude Code — read, create, update, comment, and hand off issues without leaving your terminal
 
-**[`pocket-archive`](https://github.com/kylesnav/pocket-archive)** — summarize your entire Pocket library with OpenAI, served on a local Flask app
+**[`polymarket-sim`](https://github.com/kylesnav/polymarket-sim)** — paper-trading bot that finds pricing gaps between Polymarket weather contracts and NOAA forecasts
 
 **[`reddit-custom-feed-manager`](https://github.com/kylesnav/reddit-custom-feed-manager)** — Next.js app for wrangling Reddit custom feeds
 
 **[`word-survivor`](https://github.com/kylesnav/word-survivor)** — a typing survival game built with vanilla JS and Web Audio
 
-**[`x-deleter`](https://github.com/kylesnav/x-deleter)** — delete your tweets
-
 ---
 
-<sub>new york · [@kylesnav](https://twitter.com/kylesnav)</sub>
+<sub>new york · [@kylesnav](https://twitter.com/kylesnav) · [linkedin](https://linkedin.com/in/kylesnav)</sub>
