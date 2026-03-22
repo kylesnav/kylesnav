@@ -1,15 +1,5 @@
 # kyle snavely
 
-```
-oklch(0.85 0.18 65)  ← that warm amber? it's in my terminal.
-oklch(0.75 0.14 165) ← that teal? it's in my editor.
-oklch(0.70 0.20 330) ← that magenta? it's in my notes.
-```
-
-Marketing analytics at Brex. I build tools and themes from a single set of color tokens. One palette, every surface.
-
----
-
 ### the delightful design system
 
 A neo-brutalist design system rooted in OKLCH color science — perceptually uniform, warm, and opinionated. One source of truth that compiles to every platform I touch.
